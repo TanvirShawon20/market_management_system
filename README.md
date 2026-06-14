@@ -18,3 +18,9 @@ A Flask-based marketplace web application.
 -> SQLAlchemy
 -> Bootstrap
 -> SQLite
+
+## Run Locally
+
+pip install -r requirements.txt
+
+python run.py
